@@ -33,7 +33,7 @@ You can download KickThemOut by cloning the [Git Repo](https://github.com/k4m4/k
 ```
 ~ ❯❯❯ sudo apt-get update && sudo apt-get install nmap
 
-~ ❯❯❯ git clone https://github.com/k4m4/kickthemout.git
+~ ❯❯❯ git clone https://github.com/Kaizzzo1/kickthemout.git
 
 ~ ❯❯❯ cd kickthemout/
 
@@ -50,7 +50,7 @@ If you would like to install KickThemOut on a Mac, please run the following:
 ```
 ~ ❯❯❯ brew install libdnet nmap
 
-~ ❯❯❯ git clone https://github.com/k4m4/kickthemout.git
+~ ❯❯❯ git clone https://github.com/Kaizzzo1/kickthemout.git
 
 ~ ❯❯❯ cd kickthemout/
 
@@ -69,7 +69,7 @@ Also, **keep in mind** that you might be asked to run some extra commands after 
 You can download KickThemOut on an Arch based system by executing the following:
 
 ```
-~ ❯❯❯ git clone https://github.com/k4m4/kickthemout.git
+~ ❯❯❯ git clone https://github.com/Kaizzzo1/kickthemout.git
 
 ~ ❯❯❯ cd kickthemout/
 
